@@ -1,3 +1,5 @@
+# json
+
 {
     
         "id": 61,
@@ -25,29 +27,3 @@
         "displayProfileImage": "",
         "NIP": "198705142015021001"
     }
-{
-        "id": 687,
-        "NIK": "1608014510960002",
-        "employeePositionId": "999452",
-        "workUnitPositionId": "999452",
-        "supervisorWorkUnitPositionId": 62,
-        "employeeNumber": null,
-        "email": "hanifatussadiah@lkpp.go.id",
-        "name": "Hanifatussa&#039;diah",
-        "gender": "Perempuan",
-        "type": "Jasa Lainnya",
-        "positionType": null,
-        "isSecretary": false,
-        "permanent": false,
-        "grade": null,
-        "gradeSpace": null,
-        "level": "6",
-        "position": "Staf Pendukung Unit Kerja (Biro Hukum, Sistem Informasi, dan Kepegawaian)",
-        "currentWorkUnit": "Subbagian Data dan Informasi",
-        "workUnit": "Biro Hukum, Sistem Informasi, dan Kepegawaian",
-        "status": "Aktif",
-        "profileImage": null,
-        "publicProfileImage": "",
-        "displayProfileImage": "",
-        "NIP": ""
-}
